@@ -1,0 +1,27 @@
+﻿  TimingBasicOperations.cpp
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(75): warning C4552: '+': operator has no effect; expected operator with side-effect
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(77): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(85): warning C4018: '<': signed/unsigned mismatch
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(142): warning C4552: '*': operator has no effect; expected operator with side-effect
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(144): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(152): warning C4018: '<': signed/unsigned mismatch
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(209): warning C4552: '/': operator has no effect; expected operator with side-effect
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(211): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(219): warning C4018: '<': signed/unsigned mismatch
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(276): warning C4552: '+': operator has no effect; expected operator with side-effect
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(278): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(286): warning C4018: '<': signed/unsigned mismatch
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(343): warning C4552: '*': operator has no effect; expected operator with side-effect
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(345): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(353): warning C4018: '<': signed/unsigned mismatch
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(410): warning C4552: '/': operator has no effect; expected operator with side-effect
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(412): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(420): warning C4018: '<': signed/unsigned mismatch
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(479): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(487): warning C4018: '<': signed/unsigned mismatch
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(546): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(554): warning C4018: '<': signed/unsigned mismatch
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(613): warning C4244: '=': conversion from '__int64' to 'double', possible loss of data
+d:\occidental sr year\algorithm analysis\timingbasicoperations\timingbasicoperations\timingbasicoperations.cpp(621): warning C4018: '<': signed/unsigned mismatch
+  TimingBasicOperations.vcxproj -> D:\Occidental Sr Year\Algorithm Analysis\TimingBasicOperations\Debug\TimingBasicOperations.exe
+  TimingBasicOperations.vcxproj -> D:\Occidental Sr Year\Algorithm Analysis\TimingBasicOperations\Debug\TimingBasicOperations.pdb (Partial PDB)
